@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  
  :man_technologist: My research focuses on **planning and control** for collision-resilient aerial robots, specifically for **physical interactions with the environment**.
 
- Checkout my portfolio [here!](yogeshmaan.github.io/portfolio)
+ Checkout my portfolio [here!](https://yogeshmaan.github.io/portfolio)
