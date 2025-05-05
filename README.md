@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:man_student: I'm a graduate(MS) student in **Robotics and Autonomous Systems** program at ASU, and I work as a graduate research assistant at the RISE Lab under the guidance of **Prof. Wenlong Zhang**.
+:man_student: I recently graduated with a **Master’s in Robotics and Autonomous Systems** from **Arizona State University, Tempe, USA**, where I also worked as a Graduate Research Assistant at the RISE Lab, under the mentorship of **Prof. Wenlong Zhang**.
 
- Previously, I earned my bachelor's degree in Mechanical Engineering from the **Indian Institute of Technology (IIT), Dharwad, India**. 
- 
- :man_technologist: My research focuses on **planning and control** for collision-resilient aerial robots, specifically for **physical interactions with the environment**.
+Previously, I completed my **Bachelor’s degree in Mechanical Engineering** at the **Indian Institute of Technology (IIT) Dharwad, India**. 
+
+:man_technologist: My research work focuses on development of **planning and control** algorithms for collision-resilient aerial robots, enabling robust physical interaction with environment.
 
  Checkout my portfolio [here!](https://yogeshmaan.github.io/portfolio)
